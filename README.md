@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @Sam-ops09
-- 👀 I’m interested in Machine learning and Artificial intelligence.
-- 🌱 I’m currently learning C and C++.
+- 👋 Hi, I’m Samanyu B Rao
+- 🌱 I work with Machine learning and Artificial intelligence using Python, C and C++.
 - 📫 How to reach me - samanyu48@gmail.com
 
 <!---
