@@ -28,12 +28,12 @@
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2331B6E0.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sam-ops09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Sam-ops09&theme=chartreuse-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-ops09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats-sigma-five.vercel.app/api?username=Sam-ops09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats-sigma-five.herokuapp.com/?user=Sam-ops09&theme=chartreuse-dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel-sigma-five.app/api/top-langs/?username=Sam-ops09&theme=chartreuse-dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sam-ops09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact" alt="adrianhajdin" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs?username=Sam-ops09&show_icons=true&locale=en&layout=compact" alt="Sam-ops09" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
