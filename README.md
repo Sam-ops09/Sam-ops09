@@ -1,21 +1,30 @@
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div>
+<div id="badges" align="center">
+  <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+    <a href="https://linkedin.com/in/samanyu-b-rao-9598021bb">
+      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    </a>
+    <a href="https://samanyu-portfolio.netlify.app/">
+      <img src="https://img.shields.io/badge/Website-%230077B5.svg?logo=web&logoColor=white" alt="Portfolio Badge"/>
+    </a>
+</div>
+
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning, Artificial Intelligence and Fullstack Web Development Projects <br>🌱 I’m currently learning about Frameworks and integrating my Algorithms and Programs into Apps<br>
+<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> I’m currently working on Machine Learning, Artificial Intelligence and Fullstack Web Development Projects. <br>🌱 I’m currently learning about Frameworks and integrating my Algorithms and Programs into Apps. <br>
 
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/samanyu-b-rao-9598021bb) 
-[![Portfolio](https://img.shields.io/badge/Website-%230077B5.svg?logo=web&logoColor=white)](https://samanyu-portfolio.netlify.app/)
 
 # 💻 Tech Stack:
 ![AI/ML](https://img.shields.io/badge/AI/ML-%230077B5.svg?style=for-the-badge&logo=ai&logoColor=white)
 ![API](https://img.shields.io/badge/API-%23FF6F00.svg?style=for-the-badge&logo=api&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-%23D32F2F.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-%233F51B5.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-%23007BFF.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Framer Motion](https://img.shields.io/badge/Framer%20Motion-%2305A2D9.svg?style=for-the-badge&logo=framer&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23E91E63.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%232196F3.svg?style=for-the-badge&logo=github&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-%234CAF50.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-%2363DAF2.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23FFC107.svg?style=for-the-badge&logo=javascript&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%230197FE.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%2357A773.svg?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -35,5 +44,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sam-ops09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<p><img align="center" src="https://github-readme-stats.vercel-sigma-five.app/api/top-langs?username=Sam-ops09&show_icons=true&locale=en&layout=compact" alt="Sam-ops09" /></p>
+<p><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Sam-ops09&show_icons=true&locale=en&layout=compact" alt="Sam-ops09" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
