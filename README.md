@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Machine Learning and Artificial Intelligence Projects <br>🌱 I’m currently learning about Frameworks and integrating my Algorithms and Programs into Apps<br>
+🔭 I’m currently working on Machine Learning, Artificial Intelligence and Fullstack Web Development Projects <br>🌱 I’m currently learning about Frameworks and integrating my Algorithms and Programs into Apps<br>
 
 
 ## 🌐 Socials:
