@@ -35,4 +35,5 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Sam-ops09&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=adrianhajdin&show_icons=true&locale=en&layout=compact" alt="adrianhajdin" /></p>
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
